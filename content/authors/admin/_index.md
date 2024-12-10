@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Mohammad Faizan
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Mohammad Faizan , MD
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Mohammad
+last_name: Faizan
 
 # Status emoji
 status:
@@ -20,42 +20,41 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MD , Medicine
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Osh State University
+    url: https://oshsu.kg/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:Fzn.imf@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/faizanstics
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/faizanstics
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Research Publications
+  - Professor at Osh State University
   - Information Retrieval
 
-education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+Education:
+  - PhD (Public Health) 2024 – Ongoing: International Medical Faculty, Osh State University, Osh City, Kyrgyzstan.
+    M.D. (General Medicine) 2016 – 2022: International Medical Faculty, Osh State University, Osh City, Kyrgyzstan.
+    A-Level and O-Level 2009 – 2013: Al Barakat Public School, Aligarh, India.
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -183,4 +182,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr Mohammad Faizan is a professor of Research Work at the Osh State International Medical Fuculty. His research interests include Pediatrics,Neurology,Peer Reviewed Journals etc.
